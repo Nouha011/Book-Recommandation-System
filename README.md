@@ -24,8 +24,8 @@ Enter a book title and get 10 similar book recommendations! The system analyzes 
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/Nouha011/Book-Recommandation-System.git
+cd Book-Recommandation-System
 ```
 
 2. Install dependencies:
